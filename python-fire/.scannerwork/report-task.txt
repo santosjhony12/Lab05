@@ -1,0 +1,6 @@
+projectKey=br.edu.fatec:python-fire-google
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=br.edu.fatec%3Apython-fire-google
+ceTaskId=6f3ea4c0-54b8-42c2-ae9a-2a9117f76962
+ceTaskUrl=http://localhost:9000/api/ce/task?id=6f3ea4c0-54b8-42c2-ae9a-2a9117f76962

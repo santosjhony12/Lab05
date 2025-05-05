@@ -1,0 +1,6 @@
+projectKey=br.edu.fatec:security-java
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=br.edu.fatec%3Asecurity-java
+ceTaskId=62c6cd7e-c350-4fd3-a783-faeb6e5d2961
+ceTaskUrl=http://localhost:9000/api/ce/task?id=62c6cd7e-c350-4fd3-a783-faeb6e5d2961
